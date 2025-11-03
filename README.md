@@ -15,18 +15,18 @@ You can open `index.html` in your browser to view the menu locally.
 
 ## 🖼️ Features
 - Semantic HTML layout  
-- Centered images using `display: block`  
+- Centered images   
 - Responsive and simple design  
 - Styled menu sections for coffee and desserts  
 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/cafe-menu.git
+   git clone https://github.com/TJ-Abel/Cafe_Menu.git
    ```
 2. Open the project folder:
    ```bash
-   cd cafe-menu
+   cd CAFE_MENU
    ```
 3. Open `index.html` in your browser.
 
